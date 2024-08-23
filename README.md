@@ -1,9 +1,9 @@
-# Caso-práctico-Power-IB
+# Caso-práctico-Power-BI
 
 **¿Cuáles son las categorías de productos que más se venden y en que lugar?**
 Estos datos son cruciales para el análisis y la toma de decisiones en cuanto a las áreas de oportunidad y las estrategias de venta en las regiones que sea necesario.
 ## Objetivo
-* *Los analistas de networking necesitan un dashboard interactivo y dinámico con Power IB  que les permita identificar puntos clave y con base en ellos, optimizar la gestión, liderazgo y estrategias de marketing para los paises actuales y la búsqueda de otros * *
+* *Los analistas de networking necesitan un dashboard interactivo y dinámico con Power BI  que les permita identificar puntos clave y con base en ellos, optimizar la gestión, liderazgo y estrategias de marketing para los paises actuales y la búsqueda de otros * *
 ### ANÁLISIS DE LOS RESULTADOS
 ***Aunque el total de ventas es muy importante, es necesario hacer la distinción entre categorías    a) el total de ventas en la categoría de **muebles** es de $754.75, las sillas y el moviliario para oficinas fueron subcategorías que a pesar de los descuentos sumaron ganancias,  sin embargo moviliario y estanterías generaron pérdidas
 b) el Top 3 de mayores ventas de Riverside Palais Royal Laweyers Bookcase, Royale Cherry Finish se realizaron en la región este, Global Troy Executive Leather Low-Back Tilter fué el más vendido en la región oeste, seguido del GestStacker Chair with Chrome Finish Legs en la región oeste ***
